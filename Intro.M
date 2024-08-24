@@ -23,3 +23,5 @@ mult_AB = A * B;
 
 % transposto de matriz
 A';
+
+% ...
